@@ -1,4 +1,4 @@
-# cmbot
+# infogasm_bot
 
 
 [![Build Status](https://travis-ci.org/yashino91/cmbot.svg?branch=master)](https://travis-ci.org/yashino91/cmbot)
